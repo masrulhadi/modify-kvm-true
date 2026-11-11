@@ -84,6 +84,10 @@ Simpan recovery key dengan aman. Jangan membagikannya kepada orang lain.
 
 ## Quick start
 
+CARA PALING MUDAH MENGGUNAKANNYA ADALAH DOWNLOAD FILE modified-registry.ps1, LALU KLIK KANAN FILE NYA, PILIH YANG RUN WITH POWERSHELL, NANTI BAKALAN DIMINTA UNTUK PAKAI HAK ADMIN, TINGGAL YES AJA.
+
+KALO MASIH BELUM BISA TINGGAL SALIN AJA SELURUH ISI FILE, ABESTU PASTE KE NOTEPAD, SAVE script.ps1. ABESTU TINGGAL KLIK KANAN JALANKAN VIA POWER SHELL.
+
 Bagian ini ditujukan bagi pengguna yang sudah memahami dampak dan risiko perubahan konfigurasi Windows.
 
 ```powershell
